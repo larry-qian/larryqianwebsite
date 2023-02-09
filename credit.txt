@@ -1,0 +1,6 @@
+Credit to following people for certain lines of code:
+
+BalusC on stackoverflow
+https://stackoverflow.com/questions/2906582/how-do-i-create-an-html-button-that-acts-like-a-link
+for lines 16-21 on styles.css
+
